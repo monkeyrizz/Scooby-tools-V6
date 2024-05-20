@@ -9,7 +9,6 @@
 
 🚧I AM NOT RESPONSIBLE FOR ANY DAMEGE DELT WITH THIS SCRIPT LIKE BRO AINT MY FAULT SOME SCRIPT SKID DOXED U WITH THIS🚧
 
-![output-onlinegiftools](https://user-images.githubusercontent.com/129594730/231024879-abf1939a-03ad-4dae-ac00-da2e97eb9528.gif)
 
 
 
