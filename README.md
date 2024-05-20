@@ -14,8 +14,6 @@
 
 
 
-![carbon (1)](https://user-images.githubusercontent.com/111347467/230566365-bf9d61f0-edab-4e77-81f5-d00538265ca7.png)
-
 How to run Windows
 
 WARNING if it comes up as a virus its not its the token logger inside of the multitool that u can use 
